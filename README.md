@@ -15,7 +15,8 @@ We have a section of our app where users can access documents that administrator
 - Filter by filename
 
 The following is an example JSON structure you may want to use, feel free to choose your own if you think of a more appropriate shape.
-```[
+```
+[
     {     
         "type": "pdf",     
         "name": "Employee Handbook",     
